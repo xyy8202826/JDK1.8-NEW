@@ -1,9 +1,5 @@
 package com.xyy.lambda;
 
-import com.xyy.lambda.*;
-import com.xyy.lambda.DefaultableImpl;
-import com.xyy.lambda.Defaultable;
-
 import java.util.Arrays;
 import java.util.function.Consumer;
 import java.util.function.Supplier;
